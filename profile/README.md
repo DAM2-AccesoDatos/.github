@@ -1,13 +1,12 @@
 # 👋 Bienvenidos a la organización de DAM2-AccesoDatos
 
-Este espacio en **GitHub** está pensado para los alumnos y el profesor del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** del IES Ciudad Escolar.  
-Aquí centralizaremos **proyectos, prácticas y recursos** del módulo profesional de 2º curso, Acceso a Datos, aprovechando herramientas colaborativas modernas.
+Este espacio en **GitHub** está pensado para los alumnos y el profesor del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** del IES Ciudad Escolar. Aquí centralizaremos **proyectos, prácticas y recursos** del módulo profesional de 2º curso, Acceso a Datos, aprovechando herramientas colaborativas modernas.
 
 ---
 
 ## 🎯 Objetivos de este espacio
 
-- Servir de **punto de intercambio de información** entre profesor y alumnos.  
+- Servir de **punto de intercambio de código** entre profesor y alumnos.  
 - Gestionar las **prácticas y entregas** a través de **GitHub Classroom**.  
 - Familiarizarse con un **entorno profesional de control de versiones**.  
 - Fomentar las **buenas prácticas de programación y trabajo en equipo**.
@@ -16,25 +15,41 @@ Aquí centralizaremos **proyectos, prácticas y recursos** del módulo profesion
 
 ## 📝 Funcionamiento con GitHub Classroom
 
-1. El profesor compartirá **invitaciones** a cada práctica a través de un enlace.  
-2. Al aceptar, se creará automáticamente un **repositorio personal** para el alumno.  
-3. Cada entrega debe realizarse mediante **commits y push** al repositorio asignado.  
-4. El profesor podrá revisar el código directamente y añadir comentarios.  
+GitHub Classroom es una herramienta que conecta la enseñanza con GitHub. Permite al profesor crear y gestionar prácticas de programación de forma sencilla:
 
-ℹ️ **Tip:** recuerda clonar tu repositorio en local antes de empezar a trabajar:
+- El profesor crea una tarea y comparte un enlace de invitación.
+- Al aceptarlo, a cada alumno se le genera automáticamente un repositorio privado en GitHub.
+- Ese repositorio es solo suyo y del profesor, como si fuera un “cuaderno de prácticas digital”.
+- Las entregas se hacen con commits y push, quedando todo el historial registrado.
+- El profesor puede revisar el código directamente, añadir comentarios y descargar entregas en bloque.
 
-```bash
-git clone https://github.com/ORG/tu-repo-asignado.git
+Conceptualmente es como el aula virtual del instituto pero optimizado para programación y usando GitHub como plataforma de trabajo colaborativo y de entrega.
 
-```
+Los pasos a realizar en cada práctica serán:
 
+1. El profesor compartirá **invitaciones** a cada práctica  evaluable a través de un enlace.
+2. Al aceptar, se creará automáticamente un **repositorio personal** para el alumno.
+3. Deberás clonar dicho repositorio en tu equipo. De esa forma descargarás una copia local del repo en tu ordenador:
+
+    ```bash
+    git clone https://github.com/DAM2-AccesoDatos/practica-01-alumno.git
+    ```
+
+4. Accedes al directorio correspondiente:
+
+    ```bash
+    cd practica-01-alumno
+    ```
+
+5. Desarrolla la aplicación solicitada asegurandote de cubrir todos los requisitos funcionales y no funcionales exigidos en la práctica. Ve registrando el avance progresivamente mediante **commits y push**.
+
+6. Asegúrate de subir todo al repositorio remoto antes de la fecha límite pues será lo que el profesor calificará.
 
 ## 📌 Recursos importantes
 
 - 📚 [Documentación oficial de Git](https://git-scm.com/doc) — referencias rápidas y comandos.  
 - 🎓 [GitHub Education / Estudiantes](https://education.github.com/students) — beneficios y guías para estudiantes.  
 - 🛠️ [Guía rápida de Markdown](https://www.markdownguide.org/basic-syntax/) — cómo formatear archivos README.  
-- 💡 [Convenciones para mensajes de commit (Conventional Commits)](https://www.conventionalcommits.org/es/v1.0.0/) — recomendaciones para commits claros.
 
 ## ✅ Normas básicas
 
