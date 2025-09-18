@@ -17,8 +17,9 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
 
 GitHub Classroom es una herramienta que conecta la enseñanza con GitHub. Permite al profesor crear y gestionar prácticas de programación de forma sencilla:
 
-- El profesor crea una tarea y comparte un enlace de invitación.
-- Al aceptarlo, a cada alumno se le genera automáticamente un repositorio privado en GitHub.
+- El profesor crea una tarea y comparte un enlace de invitación a través del [Aula Virtual del instituto](https://aulavirtual3.educa.madrid.org/ies.ciudadescolar.madrid/course/view.php?id=663).
+
+- Al aceptar la invitación, a cada alumno se le genera automáticamente un repositorio privado en GitHub.
 - Ese repositorio es solo suyo y del profesor, como si fuera un “cuaderno de prácticas digital”.
 - Las entregas se hacen con commits y push, quedando todo el historial registrado.
 - El profesor puede revisar el código directamente, añadir comentarios y descargar entregas en bloque.
