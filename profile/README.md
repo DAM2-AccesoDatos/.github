@@ -13,6 +13,34 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
 
 ---
 
+## 📘 Organización de repositorios de clase por RA
+
+- **RA1 (Ficheros)**
+  - [Flujos de texto](https://github.com/DAM2-AccesoDatos/RA1-Flujos-Texto)
+  - [Flujos binarios](https://github.com/DAM2-AccesoDatos/RA1-Flujos-Binarios)
+  - [Flujos Binarios Socket (Servidor)](https://github.com/DAM2-AccesoDatos/RA1-Flujos-Binarios-Socket-Servidor)
+  - [Flujos Binarios Socket (Cliente)](https://github.com/DAM2-AccesoDatos/RA1-Flujos-Binarios-Socket-Cliente)
+  - [Ficheros Acceso Aleatorio](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Acceso-Aleatorio)
+  - [Ficheros XML DTD DOM](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Xml-Dtd-Dom)
+  - [Ficheros XML XSD DOM](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Xml-Xsd-Dom)
+  - [Ficheros JSON](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Json)
+  - [Ficheros JSON ampliado](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Json-ampli)
+  
+- **RA2 (JDBC)**
+  - [JDBC API Nativa](https://github.com/DAM2-AccesoDatos/ra2-jdbc-clase)
+  - [Spring JDBC 1](https://github.com/DAM2-AccesoDatos/ra2-spring-jdbc-1)
+  - [Spring JDBC 2](https://github.com/DAM2-AccesoDatos/ra2-spring-jdbc-2)
+  - [Spring JDBC 3](https://github.com/DAM2-AccesoDatos/ra2-spring-jdbc-3)
+- RA3 (ORM)
+  - [Hibernate JPA 1]
+  - [Hibernate JPA 2]
+  - [Hibernate JPA 3]
+- **RA4 (BBDDOO)**
+  - [BBDDOO DB4O](https://github.com/DAM2-AccesoDatos/ra4-bbddoo)
+- RA5 (BBDD NoSQL)
+
+---
+
 ## 📝 Funcionamiento con GitHub Classroom
 
 GitHub Classroom es una herramienta que conecta la enseñanza con GitHub. Permite al profesor crear y gestionar prácticas de programación de forma sencilla:
