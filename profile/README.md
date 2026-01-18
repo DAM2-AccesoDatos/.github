@@ -1,4 +1,4 @@
-# 👋 Bienvenidos a la organización de DAM2-AccesoDatos
+# 👋 Bienvenidos a la organización de DAM2 Acceso a datos
 
 Este espacio en **GitHub** está pensado para los alumnos y el profesor del ciclo formativo de **Desarrollo de Aplicaciones Multiplataforma (DAM)** del IES Ciudad Escolar. Aquí centralizaremos **proyectos, prácticas y recursos** del módulo profesional de 2º curso, Acceso a Datos, aprovechando herramientas colaborativas modernas.
 
