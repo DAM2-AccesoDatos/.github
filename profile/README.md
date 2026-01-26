@@ -35,8 +35,7 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
   - [Hibernate JPA 0](https://github.com/DAM2-AccesoDatos/ra3-orm-hibernate0)
   - [Hibernate JPA 1](https://github.com/DAM2-AccesoDatos/ra3-orm-hibernate1)
   - [Hibernate JPA 1 (avanzado)](https://github.com/DAM2-AccesoDatos/ra3-orm-hibernate1-avanzado)
-  - [Hibernate JPA 2]
-  - [Hibernate JPA 3]
+  - [Hibernate JPA relaciones (1:1, 1:N, N:M)](https://github.com/DAM2-AccesoDatos/ra3-orm-hibernate-relaciones)
 
 - **RA4 (BBDDOO)**
   - [BBDDOO DB4O](https://github.com/DAM2-AccesoDatos/ra4-bbddoo)
