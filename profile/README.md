@@ -49,9 +49,11 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
 
 ---
 
-## 📝 Funcionamiento con GitHub Classroom
+## 📝 Funcionamiento con Classroom 50
 
-GitHub Classroom es una herramienta que conecta la enseñanza con GitHub. Permite al profesor crear y gestionar prácticas de programación de forma sencilla:
+Classroom 50 es una herramienta gratuita de código abierto para la distribución y evaluación de tareas de programación en GitHub. Ha sido desarrollada por Fifty Foundation y será la alternativa que usaremos en clase tras la reciente discontinuación de Github Classroom en julio de 2026.
+
+El funcionamiento es muy sencillo:
 
 - El profesor crea una tarea y comparte un enlace de invitación a través del [Aula Virtual del instituto](https://aulavirtual3.educa.madrid.org/ies.ciudadescolar.madrid/course/view.php?id=663).
 
@@ -87,6 +89,7 @@ Los pasos a realizar en cada práctica serán:
 - 📚 [Documentación oficial de Git](https://git-scm.com/doc) — referencias rápidas y comandos.  
 - 🎓 [GitHub Education / Estudiantes](https://education.github.com/students) — beneficios y guías para estudiantes.  
 - 🛠️ [Guía rápida de Markdown](https://www.markdownguide.org/basic-syntax/) — cómo formatear archivos README.  
+- 📘 [Wiki Fifty Foundation Classroom 50](https://github.com/foundation50/classroom50/wiki) - operativa Classroom 50.
 
 ## ✅ Normas básicas
 
