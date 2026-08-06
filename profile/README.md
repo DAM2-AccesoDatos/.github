@@ -39,6 +39,7 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
   - [Hibernate JPA relaciones (1:1, 1:N, N:M)](https://github.com/DAM2-AccesoDatos/ra3-orm-hibernate-relaciones)
   - [Spring Data JPA (Hibernate) + Consola](https://github.com/DAM2-AccesoDatos/SVA_SPRING_BOOT_CONSOLA_NAVIDAD25)
   - [Spring Data JPA (Hibernate) + API Rest](https://github.com/DAM2-AccesoDatos/SVA_SPRING_BOOT_REST_NAVIDAD25)
+  - [Spring Data JPA (Hibernate) + Api Rest (avanzado)](https://github.com/DAM2-AccesoDatos/SVA_SPRING_BOOT_REST_NAVIDAD25_TELEGRAM_BOT) con Telegram bot
 
 - **RA4 (BBDDOO)**
   - [BBDDOO DB4O](https://github.com/DAM2-AccesoDatos/ra4-bbddoo)
