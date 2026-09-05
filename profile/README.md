@@ -7,7 +7,7 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
 ## 🎯 Objetivos de este espacio
 
 - Servir de **punto de intercambio de código** entre profesor y alumnos.  
-- Gestionar las **prácticas y entregas** a través de **GitHub Classroom**.  
+- Gestionar las **prácticas y entregas** a través de ~~Github classroom~~  **classroom50**.  
 - Familiarizarse con un **entorno profesional de control de versiones**.  
 - Fomentar las **buenas prácticas de programación y trabajo en equipo**.
 
@@ -50,24 +50,24 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
 
 ---
 
-## 📝 Funcionamiento con Classroom 50
+## 📝 Funcionamiento con Classroom50
 
-Classroom 50 es una herramienta gratuita de código abierto para la distribución y evaluación de tareas de programación en GitHub. Ha sido desarrollada por Fifty Foundation y será la alternativa que usaremos en clase tras la reciente discontinuación de Github Classroom en julio de 2026.
+Classroom 50 es una herramienta gratuita de código abierto para la distribución y evaluación de tareas de programación en GitHub. Ha sido desarrollada por Fifty Foundation y será la alternativa que usaremos en clase tras la reciente discontinuación de *Github Classroom* en julio de 2026.
 
 El funcionamiento es muy sencillo:
 
 - El profesor crea una tarea y comparte un enlace de invitación a través del [Aula Virtual del instituto](https://aulavirtual3.educa.madrid.org/ies.ciudadescolar.madrid/course/view.php?id=663).
 
-- Al aceptar la invitación, a cada alumno se le genera automáticamente un repositorio privado en GitHub.
+- Al aceptar la invitación, a cada alumno se le genera automáticamente un repositorio privado en la organización de clase en GitHub.
 - Ese repositorio es solo suyo y del profesor, como si fuera un “cuaderno de prácticas digital”.
 - Las entregas se hacen con commits y push, quedando todo el historial registrado.
 - El profesor puede revisar el código directamente, añadir comentarios y descargar entregas en bloque.
 
 Conceptualmente es como el aula virtual del instituto pero optimizado para programación y usando GitHub como plataforma de trabajo colaborativo y de entrega.
 
-Los pasos a realizar en cada práctica serán:
+Los pasos a realizar en cada examen/práctica evaluable serán:
 
-1. El profesor compartirá **invitaciones** a cada práctica  evaluable a través de un enlace.
+1. El profesor compartirá **invitaciones** a través de un enlace.
 2. Al aceptar, se creará automáticamente un **repositorio personal** para el alumno.
 3. Deberás clonar dicho repositorio en tu equipo. De esa forma descargarás una copia local del repo en tu ordenador:
 
