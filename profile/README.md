@@ -61,7 +61,6 @@ El funcionamiento es muy sencillo:
 - Al aceptar la invitación, a cada alumno se le genera automáticamente un repositorio privado en la organización de clase en GitHub.
 - Ese repositorio es solo suyo y del profesor, como si fuera un “cuaderno de prácticas digital”.
 - Las entregas se hacen con commits y push, quedando todo el historial registrado.
-- El profesor puede revisar el código directamente, añadir comentarios y descargar entregas en bloque.
 
 Conceptualmente es como el aula virtual del instituto pero optimizado para programación y usando GitHub como plataforma de trabajo colaborativo y de entrega.
 
@@ -97,3 +96,5 @@ Los pasos a realizar en cada examen/práctica evaluable serán:
 - Acepta las invitaciones con tu **cuenta personal de alumno** (no con cuentas genéricas).
 - Mantén un **historial de commits claro**: mensajes descriptivos y atómicos. Ve subiendo las modificaciones progresivamente, no todas de una vez.
 - Respeta las **fechas de entrega** publicadas en cada práctica. Cualquier cambio realizado (commit) posterior a la fecha no será tenido en cuenta en la evaluación.
+- Un script del profesor detecta el *último commit* realizado antes de la fecha límite fijándole un **tag**, a partir del cual realizar la evaluación. Todo commit posterior será ignorado. Es responsabilidad del alumno asegurarse de que todo el trabajo esté subido a tiempo.
+- No se permite el **plagio** ni la copia de código entre compañeros. Cada alumno debe entregar su propio trabajo. Cualquier indicio de copia será sancionado según la normativa del centro.
