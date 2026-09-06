@@ -80,9 +80,7 @@ Los pasos a seguir durante los procesos de evaluación (exámenes y prácticas e
 
 6. Es responsabilidad del alumno asegurarse de subir todo al repositorio remoto antes de la fecha límite indicada pues será lo que el profesor calificará.
 
-    ```text
-    IMPORTANTE: El profesor tiene automatizada la detección del último commit realizado antes de la fecha límite, fijándole un **tag**, a partir del cual realizará la evaluación. Todo commit posterior será ignorado.
-    ```
+    > IMPORTANTE: El profesor tiene automatizada la detección del último commit realizado antes de la fecha límite, fijándole un **tag**, a partir del cual realizará la evaluación. Todo commit posterior será ignorado.
 
 7. El profesor calificará y dará feedback sobre el trabajo subido al repositorio (**tag** del último commit válido) bajo una PR (pull request) y también publicará la calificación en el Aula Virtual del instituto.
 
