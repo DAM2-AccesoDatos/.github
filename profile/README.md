@@ -47,13 +47,13 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
 <!--  - [BBDDOO DB4O](https://github.com/DAM2-AccesoDatos/ra4-bbddoo)
 -->
 - **RA5 (BBDD NoSQL)**
-<!--
+
   - Evaluado mediante trabajo grupal y defensa
--->
+
 - **RA6 (Componentes)**
-<!--
+
   - Evaluado transversalmente en todos los temas así como durante la FFE (Fase de formación en empresa)
--->
+
 ---
 
 ## 📝 Operativa en las pruebas de evaluación
