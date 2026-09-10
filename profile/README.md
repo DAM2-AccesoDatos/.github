@@ -92,11 +92,11 @@ Los pasos a seguir durante los procesos de evaluación (exámenes y prácticas e
 - 🎓 [GitHub Education / Estudiantes](https://education.github.com/students) — beneficios y guías para estudiantes.
 - 🛠️ [Guía rápida de Markdown](https://www.markdownguide.org/basic-syntax/) — cómo formatear archivos README.
 - 📘 [Wiki Fifty Foundation Classroom 50](https://github.com/foundation50/classroom50/wiki) — operativa Classroom 50.
-- 📦 [Curso de maven Baeldung](https://github.com/DAM2-AccesoDatos/curso_baeldung_maven) — ampliación de Maven.
+- 📦 [Curso de maven](https://github.com/DAM2-AccesoDatos/curso_baeldung_maven) — ampliación de Maven.
 
 ## ✅ Normas básicas
 
 - Acepta las invitaciones con tu **cuenta personal de alumno** (no con cuentas genéricas).
 - Mantén un **historial de commits claro**: mensajes descriptivos y atómicos. Ve subiendo las modificaciones progresivamente, no todas de una vez. La luz del centro se va cuando menos te lo esperas y sería una pena perder todo el trabajo...
 - Respeta las **fechas y horas de entrega** publicadas en cada práctica o examen. Cualquier cambio realizado (commit) posterior **no será tenido en cuenta en la evaluación**. Es responsabilidad del alumno asegurarse de que todo el trabajo esté subido a tiempo.
-- No se permite el **plagio** ni la copia de código entre compañeros. Cada alumno debe entregar su propio trabajo. Cualquier indicio de copia será sancionado según la normativa del centro.
+- No se permite el **plagio** ni la copia de código entre compañeros. Cada alumno debe entregar su propio trabajo. Cualquier indicio de copia será sancionado según la normativa del centro y la programación didáctica del módulo.
