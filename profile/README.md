@@ -91,7 +91,8 @@ Los pasos a seguir durante los procesos de evaluación (exámenes y prácticas e
 - 📚 [Documentación oficial de Git](https://git-scm.com/doc) — referencias rápidas y comandos.  
 - 🎓 [GitHub Education / Estudiantes](https://education.github.com/students) — beneficios y guías para estudiantes.
 - 🛠️ [Guía rápida de Markdown](https://www.markdownguide.org/basic-syntax/) — cómo formatear archivos README.
-- 📘 [Wiki Fifty Foundation Classroom 50](https://github.com/foundation50/classroom50/wiki) - operativa Classroom 50.
+- 📘 [Wiki Fifty Foundation Classroom 50](https://github.com/foundation50/classroom50/wiki) — operativa Classroom 50.
+- 📦 [Curso de maven Baeldung](https://github.com/DAM2-AccesoDatos/curso_baeldung_maven) — ampliación de Maven.
 
 ## ✅ Normas básicas
 
