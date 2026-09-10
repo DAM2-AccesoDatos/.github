@@ -58,7 +58,7 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
 
 ## 📝 Operativa en las pruebas de evaluación
 
-Classroom 50 es una herramienta gratuita de código abierto para la distribución y evaluación de tareas de programación en GitHub. Ha sido desarrollada por Fifty Foundation y será la alternativa que usaremos en clase tras la reciente discontinuación de *Github Classroom* en julio de 2026.
+**Classroom 50** es una herramienta de código abierto para la distribución y evaluación de tareas de programación en GitHub. Ha sido desarrollada por Fifty Foundation y será la alternativa que usaremos en clase tras la reciente discontinuación de *Github Classroom* en julio de 2026.
 
 Conceptualmente es como el aula virtual del instituto pero optimizado para programación y usando GitHub como plataforma de trabajo colaborativo y de entrega.
 
@@ -66,9 +66,9 @@ Los pasos a seguir durante los procesos de evaluación (exámenes y prácticas e
 
 1. El profesor crea una tarea y comparte un enlace de invitación a través del [Aula Virtual del instituto](https://aulavirtual3.educa.madrid.org/ies.ciudadescolar.madrid/course/view.php?id=663).
 
-2. Al aceptar la invitación, a cada alumno se le genera automáticamente un **repositorio privado** personal en la organización de clase en GitHub [DAM2-AccesoDatos](https://github.com/DAM2-AccesoDatos). Solo estará accesible para el alumno y profesor.
+2. Al aceptar la invitación, a cada alumno se le genera automáticamente un **repositorio privado** personal en la organización de clase en GitHub [DAM2-AccesoDatos](https://github.com/DAM2-AccesoDatos). Solo estará accesible para el alumno y el profesor.
 
-3. El alumno debe clonar dicho repositorio en su equipo del aula. De esa forma se descargará una copia local del repo en su ordenador:
+3. El alumno debe clonar dicho repositorio en su equipo del aula. De esa forma se descargará una copia local del repo en su ordenador vinculado al repositorio remoto de GitHub. Para ello, se puede usar el siguiente comando en la terminal del sistema operativo:
 
     ```bash
     git clone https://github.com/DAM2-AccesoDatos/practica-01-alumno.git
@@ -78,9 +78,9 @@ Los pasos a seguir durante los procesos de evaluación (exámenes y prácticas e
   
 5. Se debe ir registrando el avance progresivamente mediante **commits y push**.
 
-6. Es responsabilidad del alumno asegurarse de subir todo al repositorio remoto antes de la fecha límite indicada pues será lo que el profesor calificará.
+6. Es responsabilidad del alumno asegurarse de subir todo el código y demás recursos al repositorio remoto antes de la fecha límite indicada pues será lo que el profesor calificará.
 
-    > IMPORTANTE: El profesor tiene automatizada la detección del último commit realizado antes de la fecha límite, fijándole un **tag**, a partir del cual realizará la evaluación. Todo commit posterior será ignorado.
+    > IMPORTANTE: El profesor tiene automatizada la detección del último commit realizado antes de la fecha límite, fijándole un **tag**, a partir del cual realizará la evaluación. Todo commit posterior será descartado.
 
 7. El profesor calificará y dará feedback sobre el trabajo subido al repositorio (**tag** del último commit válido) bajo una PR (pull request) y también publicará la calificación en el Aula Virtual del instituto.
 
