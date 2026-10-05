@@ -19,10 +19,7 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
   - [Flujos de texto](https://github.com/DAM2-AccesoDatos/RA1-Flujos-Texto) + [Flujos de texto avanzados](https://github.com/DAM2-AccesoDatos/RA1-Flujos-Texto-avanzado.git)
   - [Flujos binarios](https://github.com/DAM2-AccesoDatos/RA1-Flujos-Binarios) + [Flujos binarios avanzados](https://github.com/DAM2-AccesoDatos/RA1-Flujos-Binarios-avanzado.git)
   - [Ficheros Acceso Aleatorio](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Acceso-Aleatorio) + [Ficheros Acceso Aleatorio avanzado](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Acceso-Aleatorio-avanzado.git)
-
-
   - [Ficheros XML DTD DOM](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Xml-dtd-Dom)
-  - 
   - [Ficheros XML XSD DOM](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Xml-Xsd-Dom-2627)
 <!--
   - [Ficheros JSON](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Json)
