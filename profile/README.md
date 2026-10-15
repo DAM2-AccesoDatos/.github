@@ -99,3 +99,7 @@ Los pasos a seguir durante los procesos de evaluación (exámenes y prácticas e
 - Mantén un **historial de commits claro**: mensajes descriptivos y atómicos. Ve subiendo las modificaciones progresivamente, no todas de una vez. La luz del centro se va cuando menos te lo esperas y sería una pena perder todo el trabajo...
 - Respeta las **fechas y horas de entrega** publicadas en cada práctica o examen. Cualquier cambio realizado (commit) posterior **no será tenido en cuenta en la evaluación**. Es responsabilidad del alumno asegurarse de que todo el trabajo esté subido a tiempo.
 - No se permite el **plagio** ni la copia de código entre compañeros. Cada alumno debe entregar su propio trabajo. Cualquier indicio de copia será sancionado según la normativa del centro y la programación didáctica del módulo.
+
+## ⚠️ Errores comunes con repos remotos de Github
+
+Si al intentar clonar tu repositorio de GitHub aparece el error `Repository not found`, aunque puedas acceder a él desde el navegador, es posible que **Windows tenga almacenadas las credenciales de GitHub de otro alumno**. Para solucionarlo, abre el **Panel de control de Windows → Administrador de credenciales → Credenciales de Windows**, busca las entradas relacionadas con `git:https://github.com` y elimínalas. Después, vuelve a ejecutar `git clone` e inicia sesión con **tu propia cuenta de GitHub** cuando se solicite la autenticación.
