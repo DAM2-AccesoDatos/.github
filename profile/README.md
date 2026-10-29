@@ -26,8 +26,9 @@ Este espacio en **GitHub** está pensado para los alumnos y el profesor del cicl
 <!--  - [Ficheros JSON ampliado](https://github.com/DAM2-AccesoDatos/RA1-Ficheros-Json-ampli)
   -->
 - **RA2 (JDBC)**
+
+  - [JDBC API Nativa](https://github.com/DAM2-AccesoDatos/ra2-jdbc-clase-2627)
 <!--
-  - [JDBC API Nativa](https://github.com/DAM2-AccesoDatos/ra2-jdbc-clase)
   - [Spring JDBC 1](https://github.com/DAM2-AccesoDatos/ra2-spring-jdbc-1)
   - [Spring JDBC 2](https://github.com/DAM2-AccesoDatos/ra2-spring-jdbc-2)
   - [Spring JDBC 3](https://github.com/DAM2-AccesoDatos/ra2-spring-jdbc-3)
